@@ -9,7 +9,7 @@ viola-kaveza.github.io/anitas-kitchen-/
 
 
 
-Technologies used
+# Technologies used
 HTML5. CSS3.
 
 
